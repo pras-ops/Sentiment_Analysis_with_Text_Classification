@@ -27,8 +27,11 @@ The data is cleaned by removing unnecessary columns and additional characters pr
 The project visualizes the data by creating a word cloud and bar graph to show the most common words in the text.
 
  1. Visualizing the highest repeating words in the dataframe using the wordcloud
+ ![download](https://github.com/pras-ops/Sentiment_Analysis_with_Text_Classification/assets/56476064/984c472b-0fdf-4158-857a-2fb7763228d1)
+
  2. Top 10 repeated/common words using bar graph
 
+![download](https://github.com/pras-ops/Sentiment_Analysis_with_Text_Classification/assets/56476064/74414620-eefb-4fd5-8327-92f6d41e5cd5)
 
 
 
